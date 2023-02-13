@@ -23766,7 +23766,7 @@ end
 end
 -- نهايه التفعيل
 if text == 'السورس' or text == 'سورس' or text == 'ياسورس' or text == 'يا سورس' then 
-local Text = "*✻ : welcome to the sᴏᴜʀᴄᴇ ᴀʟʜᴀʟᴀғɪɪ .*\n"
+local Text = "*✻ : welcome to the source BARIS  🐉.*\n"
 keyboard = {} 
 keyboard.inline_keyboard = {
 {{text = '• source BARIS  🐉.',url="https://t.me/RM_QA"}},
